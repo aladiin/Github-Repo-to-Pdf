@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Repo to PDF",
+  "description": "An application that takes a public GitHub repository URL, fetches its content, and converts it into a downloadable PDF document using AI for structuring.",
+  "requestFramePermissions": []
+}
